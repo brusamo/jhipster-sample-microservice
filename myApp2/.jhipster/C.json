@@ -1,0 +1,18 @@
+{
+  "applications": ["myApp", "myApp2"],
+  "changelogDate": "20221020075301",
+  "clientRootFolder": "myApp2",
+  "databaseType": "sql",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "c",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "myApp2",
+  "name": "C",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
